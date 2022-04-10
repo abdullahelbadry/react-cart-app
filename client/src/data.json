@@ -2,7 +2,7 @@
     {
         "id": "id1",
         "title" : "Computer",
-        "imageUrl" : "/client/public/images/pf1.jpg",
+        "imageUrl" : "/images/pf1.jpg",
         "description" : "this is product 1",
         "price" : 30,
         "size" : ["S", "M", "L", "XL"]
@@ -10,7 +10,7 @@
     {
         "id": "id2",
         "title" : "Watch",
-        "imageUrl" : "/client/public/images/pf1.jpg",
+        "imageUrl" : "/images/pf2.jpg",
         "description" : "this is product 2",
         "price" : 45,
         "size" : ["S", "M", "L", "XL"]
@@ -18,7 +18,7 @@
     {
         "id": "id3",
         "title" : "mobile",
-        "imageUrl" : "/client/public/images/pf3.jpg",
+        "imageUrl" : "/images/pf3.jpg",
         "description" : "this is product 3",
         "price" : 15,
         "size" : ["S", "M", "L", "XL"]
@@ -26,7 +26,7 @@
     {
         "id": "id4",
         "title" : "Tablet",
-        "imageUrl" : "/client/public/images/pf4.jpg",
+        "imageUrl" : "/images/pf4.jpg",
         "description" : "this is product 4",
         "price" : 40,
         "size" : ["S", "M", "L", "XL"]
