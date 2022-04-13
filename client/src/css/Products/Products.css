@@ -21,3 +21,15 @@
     -ms-border-radius: 10px;
     -o-border-radius: 10px;
 }
+.product-info img{
+    display: block;
+    width: 20%;
+    margin: 20px auto;
+}
+.close-modal{
+    position: absolute;
+    right: 20px;
+    top: 10px;
+    cursor: pointer;
+    font-size: 30px;
+}
